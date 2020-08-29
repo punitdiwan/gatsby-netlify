@@ -4,7 +4,7 @@ headerImage:
   image: /img/television.png
   imageAlt: JavaScript Wakanda
 title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Meetup About to Launch
+upcomingMeetupHeading: Meetup About to Launch Very Soon
 noUpcomingMeetupText: Details to be announced.
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
